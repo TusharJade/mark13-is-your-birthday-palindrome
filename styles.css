@@ -1,0 +1,42 @@
+body {
+  background: #ca90c5;
+  margin: 0;
+}
+
+.container {
+  text-align: center;
+  max-width: 600px;
+  margin: auto;
+}
+
+.heading {
+  padding: 1rem;
+  padding-bottom: 2rem;
+}
+
+.input {
+  padding: 1rem;
+  padding-bottom: 2rem;
+  font-size: larger;
+  font-weight: bold;
+}
+
+#bday-input {
+  padding: 0.3rem;
+  border: 2px solid;
+}
+
+.btn {
+  border-radius: 0.5rem;
+  padding: 0.5rem 2rem;
+  background-color: rgb(150, 51, 153);
+}
+
+#output {
+  font-size: medium;
+  font-weight: 600;
+}
+
+.result {
+  padding-top: 2rem;
+}
